@@ -11,7 +11,6 @@ export const HomeCon = styled.div`
 
 export const RegisterCon = styled.div`
   width: 90%;
-  border: 1px red solid;
   margin-top: 14%;
   display: flex;
   flex-direction: column;
@@ -57,7 +56,7 @@ export const RegisterImage = styled.img`
 
 export const Image = styled.img`
   height: 350px;
-  width: 90%;
+  width: 700px;
   margin-top: 30px;
 `
 
@@ -65,6 +64,7 @@ export const Name = styled.h1`
   color: #2563eb;
   font-size: 45px;
   font-family: 'Roboto';
+  margin-bottom: 0px;
 `
 
 export const Topic = styled.p`
@@ -72,4 +72,5 @@ export const Topic = styled.p`
   font-size: 25px;
   font-family: 'Roboto';
   font-weight: bold;
+  margin-bottom: 0px;
 `

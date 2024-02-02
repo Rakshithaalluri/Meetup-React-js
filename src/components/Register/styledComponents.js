@@ -12,7 +12,6 @@ export const RegistrationCon = styled.div`
 export const RegistrationImgFormCon = styled.div`
   display: flex;
   width: 80%;
-  border: 1px red solid;
 `
 
 export const RegistrationImage = styled.img`
